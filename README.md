@@ -5,4 +5,4 @@ Day 22 - The Pong Game
 
 Specific (and short) notes and titles written in main.py. 
   Unfinished practice (29/01/2024); update tomorrow.
-  
+  Finished practice (30/01/2024); updated.
